@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kevinisabelle
-- 👀 I’m and hybrid software dev and reggaeton artist
-- 🌱 I’m currently learning block chains, python blender addon dev 
+- 👀 I’m an OG software dev and reggaeton artist
+- 🌱 I’m currently learning Web3 Dapp dev and dabbling in new tech.
+- Pro .NET Core APIs, React clients, GraphQL
 - 💞️ I’m looking to collaborate on music related tech project.
 - 📫 You can checkout my music and reach me at https://kisabel.com
 
