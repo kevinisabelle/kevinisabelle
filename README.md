@@ -34,9 +34,18 @@
 ## IOT
 - AVR XMEGA but starting to think small boards with linux are the future. More software, less soldering.
 
-## Blockchain and Web3
-- Solana Ecosystem
-- Cardano Ecosystem
+## Blockchain and Web3 Dapps (In investigation and dabbling mode)
+- Ecosystems
+  - Solana
+  - Cardano
+  - Avalanche
+  - Fantom
+  - Cosmos
+- SDKs
+  - Enjin
+  - Storj
+  - Moralis
+
 
 <!---
 kevinisabelle/kevinisabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
