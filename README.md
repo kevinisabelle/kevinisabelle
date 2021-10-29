@@ -29,23 +29,20 @@
 
 ## Desktop Apps
 - WFP for Windows app, might move to .NET Maui
-- Unity or Unreal engine for 3D apps or games
+- Unity for 3D apps or games
 
 ## IOT
 - AVR XMEGA but starting to think small boards with linux are the future. More software, less soldering.
 
 ## Blockchain and Web3 Dapps (In investigation and dabbling mode)
 - Ecosystems
+  - Ethereum/BSC
+  - Polkadot  
   - Solana
-  - Cardano
   - Avalanche
   - Fantom
-  - Cosmos
 - SDKs
-  - Enjin
-  - Storj
   - Moralis
-
 
 <!---
 kevinisabelle/kevinisabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
