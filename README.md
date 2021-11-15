@@ -8,7 +8,7 @@
 # My Prefered tech stacks
 
 ## Backend for API
-- Dotnet 5
+- Dotnet
 - ORM: Entity Framework with Posgresql
 - Security: Identity Framework with OAuth
 - Graphql: HotChocolate
@@ -21,7 +21,7 @@
 ## Hosting and deployment
 - Google Cloud
 - Nginx
-- Ubuntu
+- Ubuntu prefered flavor
 - Docker
 
 ## Mobile Apps
@@ -34,13 +34,16 @@
 ## IOT
 - AVR XMEGA but starting to think small boards with linux are the future. More software, less soldering.
 
-## Blockchain and Web3 Dapps (In investigation and dabbling mode)
+## Blockchain and Web3 Dapps
 - Ecosystems
   - Ethereum/BSC
+    - Solidity programming 
   - Polkadot  
   - Solana
+    - Rust programming 
   - Avalanche
-  - Fantom
+  - Cardano
+    - Haskell programming
 - SDKs
   - Moralis
 
